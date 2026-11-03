@@ -1,5 +1,8 @@
 # Enhanced Telco Dataset Generator with Text Data
 
+## Screenshots
+
+Homework screenshots (Jupyter + docker): [screenshots.md](screenshots.md)
 
 # Telco Customer Churn – Synthetic Dataset with Data Drift
 
